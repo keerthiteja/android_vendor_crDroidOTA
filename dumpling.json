@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "Pranav Vashi (neobuddy89)",
+			"maintainer": "Keerthi Teja (xTeja)",
 			"oem": "OnePlus",
 			"device": "OnePlus 5T",
-			"filename": "crDroidAndroid-11.0-20211114-dumpling-v7.12.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/dumpling/7.x/crDroidAndroid-11.0-20211114-dumpling-v7.12.zip/download",
-			"timestamp": 1636855658,
-			"md5": "f364166d6f94527282a2c87060810a1c",
-			"size": 918134070,
-			"version": "7.12",
+			"filename": "crDroidAndroid-11.0-20211226-dumpling-v7.13.zip",
+			"download": "https://sourceforge.net/projects/oneplus5t/files/crDroid/dumpling/crDroidAndroid-11.0-20211226-dumpling-v7.13.zip/download",
+			"timestamp": 1640528036,
+			"md5": "a4978aec68cd4e7e094e67da9c0227b8",
+			"size": 826953183,
+			"version": "7.13",
 			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/oneplus-5t/development/rom-crdroid-android-7-t4171489",
 			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/",
@@ -17,8 +17,9 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "https://orangefox.download/device/dumpling",
-			"paypal": "https://paypal.me/neobuddy89",
-			"telegram": "https://t.me/crDroid_OnePlus5_5T"
+			"paypal": "https://paypal.me/xKeerthiTeja",
+			"telegram": "https://t.me/OP5T_flos_crdroid_updates"
 		}
 	]
 }
+

@@ -1,24 +1,24 @@
 {
 	"response": [
 		{
-			"maintainer": "Pranav Vashi (neobuddy89)",
+			"maintainer": "Keerthi Teja (xTeja)",
 			"oem": "OnePlus",
 			"device": "OnePlus 5",
-			"filename": "crDroidAndroid-11.0-20211114-cheeseburger-v7.12.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/cheeseburger/7.x/crDroidAndroid-11.0-20211114-cheeseburger-v7.12.zip/download",
-			"timestamp": 1636837181,
-			"md5": "a5f37fb94dad02fe51f5c6e228d2264c",
-			"size": 917964452,
-			"version": "7.12",
+			"filename": "crDroidAndroid-11.0-20211227-cheeseburger-v7.13.zip",
+			"download": "https://sourceforge.net/projects/oneplus5t/files/crDroid/cheeseburger/crDroidAndroid-11.0-20211227-cheeseburger-v7.13.zip/download",
+			"timestamp": 1640604951,
+			"md5": "6d22d3d6dca44acaf90febc68a17b504",
+			"size": 826914709,
+			"version": "7.13",
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/oneplus-5/development/rom-crdroid-android-7-t4171417",
+			"forum": "https://t.me/OP5T_flos_crdroid_updates",
 			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/",
 			"firmware": "https://sourceforge.net/projects/crdroid/files/cheeseburger/6.x/firmware/firmware_10.0.1_oneplus5.zip/download",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "https://orangefox.download/device/cheeseburger",
-			"paypal": "https://paypal.me/neobuddy89",
-			"telegram": "https://t.me/crDroid_OnePlus5_5T"
+			"paypal": "https://paypal.me/xKeerthiTeja",
+			"telegram": "https://t.me/OP5T_flos_crdroid_updates"
 		}
 	]
 }

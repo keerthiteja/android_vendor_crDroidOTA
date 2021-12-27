@@ -1,5 +1,31 @@
 Highlights & Device Specific Changes:
 ===================================
+26th December, 2021
+
+Build type: Monthly
+Device: Oneplus 5/T (cheeseburger/dumpling)
+Device maintainer: xTeja
+Required firmware: 10.0.1
+
+Short changelog:
+* OTA Test build
+
+===================================
+12th December, 2021
+
+Build type: Monthly
+Device: Oneplus 5/T (cheeseburger/dumpling)
+Device maintainer: xTeja
+Required firmware: 10.0.1
+
+Short changelog:
+* Android December 2021 Security update
+* Based on LOS trees and Kernel
+* Added crDroid overlay Flags
+* LOS Upstream
+* Dotfix Included
+
+===================================
 14th November, 2021
 
 Build type: Monthly

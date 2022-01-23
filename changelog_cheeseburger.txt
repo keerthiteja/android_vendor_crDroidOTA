@@ -1,5 +1,23 @@
 Highlights & Device Specific Changes:
 ===================================
+23 January, 2022
+
+Build type: Monthly
+Device: Oneplus 5/T (cheeseburger/dumpling)
+Device maintainer: xTeja
+Required firmware: 10.0.1
+
+Short changelog:
+* Android January 2022 Security update
+* Added toggle to disable VPN and Data saver icons in status bar
+* Added and updated OOS icon theming  (Styles and wallpapers)
+* Added custom signal and wifi icons - works with no other icons applied (crdroid > UI)
+* Added toggle to enable flashlight blink on call
+* Added landscape battery style
+* Added customization to set battery text position
+* Updated charging sounds
+
+===================================
 26th December, 2021
 
 Build type: Monthly
